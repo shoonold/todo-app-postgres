@@ -1,10 +1,10 @@
 ## todo-app-postgres
 
 ## Tech Stack
-Postgres
-Express
-Node
-React
+- Postgres
+- Express
+- Node
+- React
 
 ### Setup
 
