@@ -4,7 +4,7 @@
 - Postgres
 - Express
 - Node
-- React
+- React and Material UI
 
 ### Setup
 
