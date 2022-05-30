@@ -1,5 +1,11 @@
 ## todo-app-postgres
 
+## Tech Stack
+Postgres
+Express
+Node
+React
+
 ### Setup
 
 Clone the api-test repository
