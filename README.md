@@ -6,6 +6,7 @@
 - Node
 - React and Material UI
 - Restful API
+- Sequelize (ORM)
 
 ### Setup
 
